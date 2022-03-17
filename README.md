@@ -35,14 +35,14 @@ function (actualAge){
 
 | Input | Output |
 | ----- | ------ |
-|       |        | 
-|       |        | 
-|       |        | 
+|   1   |    1, 15, 15    | 
+|   2   |    1, 24, 24    | 
+|   3   |    3, 28, 29    | 
 
 <table>
   <tr>
     <th>What does this program do?</th>
-    <td></td>
+    <td>Program takes input of actualAge and returns that age in humanYears, catYears, and dogYears. For all cases, humanYears equals actualAge. For actual age of 1, catYears and dogYears equals 15.  For actual age of 2, catYears and dogYears equals 24. For all other actualAge inputs, catYears and dogYears follow respective formulas to calculate.</td>
   </tr>
 </table>
 
